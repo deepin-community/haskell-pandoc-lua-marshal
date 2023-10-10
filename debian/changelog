@@ -1,5 +1,23 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-pandoc-lua-marshal (0.1.7-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Scott Talbert <swt@techie.net>  Mon, 10 Oct 2022 13:14:17 -0400
+
+haskell-pandoc-lua-marshal (0.1.6.1-3) unstable; urgency=medium
+
+  * Disable RTS -N
+
+ -- Scott Talbert <swt@techie.net>  Fri, 12 Aug 2022 11:21:16 -0400
+
+haskell-pandoc-lua-marshal (0.1.6.1-2) unstable; urgency=medium
+
+  * Post-NEW source-only upload
+
+ -- Scott Talbert <swt@techie.net>  Fri, 12 Aug 2022 11:15:28 -0400
+
+haskell-pandoc-lua-marshal (0.1.6.1-1) unstable; urgency=low
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Scott Talbert <swt@techie.net>  Mon, 08 Aug 2022 11:19:14 -0400
